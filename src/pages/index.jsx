@@ -9,6 +9,7 @@ import ProjectCard from '../components/ProjectCard'
 
 // Elements
 import Inner from '../elements/Inner'
+import Button from '../elements/Button'
 import { Title, BigTitle, Subtitle } from '../elements/Titles'
 
 // Views
@@ -66,6 +67,7 @@ const Index = () => (
           Hello, <br /> I'm Aditya Giri.
         </BigTitle>
         <Subtitle>I'm an Indie Maker, Functional Programming fanboy, and Teacher who loves to share knowledge.</Subtitle>
+        <Button href="https://blog.brainbuzzer.me">Blog</Button>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>

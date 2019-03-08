@@ -195,6 +195,7 @@ module.exports = {
 
   fonts: {
     sans: [
+      'Inter UI',
       'Open Sans',
       '-apple-system',
       'BlinkMacSystemFont',
@@ -209,6 +210,7 @@ module.exports = {
       'sans-serif',
     ],
     serif: [
+      'Bree Serif',
       'Cantata One',
       'Constantia',
       'Lucida Bright',
